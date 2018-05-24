@@ -1,7 +1,12 @@
 ﻿
 
 var myPlaylist = [
-
+{
+         mp3: 'Idhazhin.mp3',
+         title: 'Idhazhin Oram',
+         artist: 'Anirudh',
+         cover: 'music/2.jpg'
+     },
    
     {
       	mp3:'yen.mp3',
@@ -16,12 +21,7 @@ var myPlaylist = [
         artist: 'Alan Walker',
         cover: 'music/1.jpg'
     },
-     {
-         mp3: 'Idhazhin.mp3',
-         title: 'Idhazhin Oram',
-         artist: 'Anirudh',
-         cover: 'music/2.jpg'
-     },
+     
       {
           mp3: 'Oh.mp3',
           title: 'Oh Oh',
